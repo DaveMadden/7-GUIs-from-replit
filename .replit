@@ -1,0 +1,2 @@
+run="yarn dev"
+entrypoint="src/App.tsx"
